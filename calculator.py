@@ -9,3 +9,6 @@ def calculator(a, b, op):
         return a / b
     else:
         return 'Invalid operator'
+
+def test_hello():
+    print('Working on our GitHub magic.')
