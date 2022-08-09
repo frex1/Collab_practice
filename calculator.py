@@ -13,4 +13,4 @@ def calculator(a, b, op):
         return 'Invalid operator'
 
 def test_hello():
-    print('Working on our GitHub magic.')
+    print('Working on our GitHub magic is fun.')
