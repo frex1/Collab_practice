@@ -11,4 +11,4 @@ def calculator(a, b, op):
         return 'Invalid operator'
 
 def test_hello():
-    print('Jtust rying to create a conflict here.')
+    print('Just trying to create a conflict here.')
